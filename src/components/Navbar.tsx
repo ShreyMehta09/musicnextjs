@@ -37,5 +37,4 @@ function Navbar({ className }: { className?: string }) {
 		</div>
 	);
 }
-
 export default Navbar;
