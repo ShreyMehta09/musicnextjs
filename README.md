@@ -23,4 +23,4 @@ This project is a responsive music course buying website, built using Next.js, T
 
 The front-end showcases music courses with an intuitive interface, allowing users to browse and purchase courses easily. While the current focus is on front-end development, it provides a strong foundation for future enhancements.
 
-**Live Demo:** [Music School Website](https://music-school-hkjv8zunc-shreymehta09s-projects.vercel.app/)
+**Live Demo:** [Music School Website](https://music-school-pied.vercel.app/)
